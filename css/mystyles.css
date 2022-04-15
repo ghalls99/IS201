@@ -101,7 +101,7 @@ a {
     margin-top: 5px;
 }
 
-.doug-img {
+.caleb-img {
     margin-top: 30px;  
     padding-right: 15px; 
 }
@@ -134,5 +134,9 @@ body {
 
 footer {
     background-color: white;
+}
+
+.mystles-video {
+    position: relative
 }
 
